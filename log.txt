@@ -6,3 +6,4 @@ Update documentation [FiNVJF] line 11.1
 Refactor codebase with Z [09IlxO] line 12.3
 Add feature for X [fKK0vj] line 13.1
 Add feature for X [QM4SI3] line 14.2
+Update documentation [Nn90SL] line 16.2
